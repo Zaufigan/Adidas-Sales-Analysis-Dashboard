@@ -129,7 +129,7 @@ The Clear All Slicers button allows users to reset the applied filters and retur
 
 ## Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](dashboard.png)
+[Download Power BI Dashboard](https://github.com/Zaufigan/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas%20Sales%20Analysis.pbix)
 
 *Interactive Power BI dashboard displaying sales KPIs, monthly sales trends, state-wise sales, regional contribution, product performance, and retailer performance.*
 
